@@ -1,6 +1,6 @@
-module github.com/things-go/go-socks5
+module github.com/Felamande/gosocks5/v2
 
-go 1.18
+go 1.22
 
 require (
 	github.com/stretchr/testify v1.9.0

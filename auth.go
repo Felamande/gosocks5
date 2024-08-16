@@ -3,7 +3,7 @@ package socks5
 import (
 	"io"
 
-	"github.com/things-go/go-socks5/statute"
+	"github.com/Felamande/gosocks5/v2/statute"
 )
 
 // AuthContext A Request encapsulates authentication state provided

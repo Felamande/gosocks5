@@ -10,8 +10,8 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/things-go/go-socks5/bufferpool"
-	"github.com/things-go/go-socks5/statute"
+	"github.com/Felamande/gosocks5/v2/bufferpool"
+	"github.com/Felamande/gosocks5/v2/statute"
 )
 
 type MockConn struct {
